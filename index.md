@@ -7,3 +7,36 @@
 
 Wow a picture
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+``` javascript
+// javascript
+var myVar = "Hello, world!";
+```
+
+
+``` sh
+# shell
+./run.sh execute --help
+```
+
+
+``` python
+# python
+jep[auto] = "test"
+```
+
+
+
+``` go
+// golang
+var autoMap map[string]string
+autoMap := map[string]string{
+  "auto": "map",
+}
+autoMap2 := map[string]string{
+  "auto": "map",
+}
+
+```
